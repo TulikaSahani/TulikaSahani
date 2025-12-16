@@ -53,7 +53,7 @@ I enjoy:
 Interactive VR environment allowing users to pick, move, and place 3D objects.  
 Optimized for **Meta Quest** with smooth interaction flow & spatial UX.
 
-<img src="https://i.imgur.com/BY7Ng4q.png" width="700"/>
+
 
 ---
 
@@ -61,21 +61,21 @@ Optimized for **Meta Quest** with smooth interaction flow & spatial UX.
 Marker-based AR visualization with **real-time 360° model rendering**.  
 Designed smooth, cinematic interactions for marketing demos.
 
-<img src="https://i.imgur.com/2g4yqYg.png" width="700"/>
+
 
 ---
 
 ### 🔹 **Delivery Dash (Unity | 2D Game)**  
 A polished 2D driving game featuring physics interactions, collision logic, and clean UI/camera compositions.
 
-<img src="https://i.imgur.com/TSZyV0D.png" width="700"/>
+
 
 ---
 
 ### 🔹 **Flappy Bird 3D (Unity | First-Person)**  
 A unique first-person twist on Flappy Bird with smooth mechanics & optimized camera motion.
 
-<img src="https://i.imgur.com/cTLOgRG.png" width="700"/>
+
 
 ---
 
